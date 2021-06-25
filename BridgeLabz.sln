@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgeLabz", "BridgeLabz\BridgeLabz.csproj", "{08EFBFA9-71DF-40CE-8E06-8548290A59EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08EFBFA9-71DF-40CE-8E06-8548290A59EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08EFBFA9-71DF-40CE-8E06-8548290A59EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08EFBFA9-71DF-40CE-8E06-8548290A59EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08EFBFA9-71DF-40CE-8E06-8548290A59EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D51CDB-67AF-4130-B235-F7A35424D4B4}
+	EndGlobalSection
+EndGlobal

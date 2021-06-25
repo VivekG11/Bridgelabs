@@ -1,0 +1,13 @@
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\obj\Debug\netcoreapp3.1\BridgeLabz.csproj.AssemblyReference.cache
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\obj\Debug\netcoreapp3.1\BridgeLabz.AssemblyInfoInputs.cache
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\obj\Debug\netcoreapp3.1\BridgeLabz.AssemblyInfo.cs
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\obj\Debug\netcoreapp3.1\BridgeLabz.csproj.CoreCompileInputs.cache
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\bin\Debug\netcoreapp3.1\BridgeLabz.exe
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\bin\Debug\netcoreapp3.1\BridgeLabz.deps.json
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\bin\Debug\netcoreapp3.1\BridgeLabz.runtimeconfig.json
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\bin\Debug\netcoreapp3.1\BridgeLabz.runtimeconfig.dev.json
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\bin\Debug\netcoreapp3.1\BridgeLabz.dll
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\bin\Debug\netcoreapp3.1\BridgeLabz.pdb
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\obj\Debug\netcoreapp3.1\BridgeLabz.dll
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\obj\Debug\netcoreapp3.1\BridgeLabz.pdb
+C:\Users\VIVEK\source\repos\BridgeLabz\BridgeLabz\obj\Debug\netcoreapp3.1\BridgeLabz.genruntimeconfig.cache

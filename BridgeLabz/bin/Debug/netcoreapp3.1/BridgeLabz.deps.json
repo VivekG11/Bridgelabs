@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BridgeLabz/1.0.0": {
+        "runtime": {
+          "BridgeLabz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BridgeLabz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
