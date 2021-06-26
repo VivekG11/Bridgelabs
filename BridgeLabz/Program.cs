@@ -11,6 +11,7 @@ namespace BridgeLabz
             Console.WriteLine("The sum is :"+(a+b));
             Console.WriteLine(".Net framework");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Day 3 fellowship program");
             add();
           
         }
